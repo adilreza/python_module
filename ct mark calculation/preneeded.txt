@@ -1,0 +1,6 @@
+Tkinter ---python module
+-------------------------------
+oop concept of python
+.................................
+som basic concept of python
+---------------------------------------
