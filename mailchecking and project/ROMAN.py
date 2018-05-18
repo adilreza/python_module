@@ -1,7 +1,7 @@
 import email
 import imaplib
 username='romman143001@gmail.com'
-password='romman001'
+password='**********'
 import winspeech
 import pyaudio
 
