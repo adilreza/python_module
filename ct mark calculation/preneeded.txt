@@ -2,5 +2,5 @@ Tkinter ---python module
 -------------------------------
 oop concept of python
 .................................
-som basic concept of python
+some basic concept of python
 ---------------------------------------
